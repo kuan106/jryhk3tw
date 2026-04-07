@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "6 Apr_A1 Website Development_Jeremy",
-    "currentPage": "index.html",
+    "currentPage": "jryhk3tw.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -72,14 +72,15 @@
     "mbrsiteDomain": "jryhk3tw"
   },
   "pages": {
-    "index.html": {
+    "jryhk3tw.html": {
       "settings": {
         "main": true,
         "title": "Honkai Impact 3nd - Design by Jeremy",
-        "meta_descr": "",
+        "meta_descr": "This is a Testing Design Honkai Impact 3 Website for my Assignment",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/printable-high-resolution-honkai-impact-3rd-logos-that-i-v0-47r39lsqhic71.png"
       },
       "components": [
         {
